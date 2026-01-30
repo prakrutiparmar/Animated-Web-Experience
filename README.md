@@ -1,74 +1,61 @@
+# 🎨 Animated Web Experience
 
-## 📋 <a name="table">Table of Contents</a>
+A visually captivating animated website built with **React**, **Tailwind CSS**, and **GSAP** — designed to showcase smooth scroll-triggered animations, geometric transitions, and engaging UI interactions inspired by modern, award-worthy web designs. :contentReference[oaicite:0]{index=0}
 
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets (Code to Copy)](#snippets)
-6. 🔗 [Assets](#links)
-7. 🚀 [More](#more)
+✨ Live demo: [vercel link](https://animated-web-experience.vercel.app/)
 
+---
 
+## 🚀 Project Overview
 
-## <a name="introduction">🤖 Introduction</a>
+This project demonstrates an advanced animated frontend experience with:
 
-Build a visually captivating website inspired by **[Zentry](https://zentry.com/)**, featuring scroll-triggered animations, geometric transitions, and engaging video storytelling. Learn how to deliver a luxurious, modern feel, focusing on engaging UI/UX and smooth responsiveness, capturing the essence of what makes an Awwwards winner.
+- **Scroll-based animations** for interactive storytelling  
+- **Geometric clip-path transitions** to create unique viewport effects  
+- **3D hover interactions** for engaging UI feedback  
+- **Seamless video transitions** to enhance visual flow  
+- **Fully responsive layout** across devices  
+- Polished UI/UX with smooth, buttery-like animations :contentReference[oaicite:2]{index=2}
 
+Perfect for showcasing frontend animation skills and modern web animation techniques. :contentReference[oaicite:3]{index=3}
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
+---
 
-- GSAP
-- React.js
-- Tailwind CSS
+## 🧠 Tech Stack
 
-## <a name="features">🔋 Features</a>
+| Technology       | Purpose |
+|------------------|----------|
+| React.js         | UI & component logic |
+| Tailwind CSS     | Utility-first styling |
+| GSAP (GreenSock) | High-performance animations |
+| Vite             | Fast development tooling |
+| JavaScript       | Interactivity & animation logic |
 
-👉 **Scroll-Based Animations**: Dynamic animations triggered by scrolling for a more engaging user experience.
+---
 
-👉 **Clip Path Shaped Animations**: Unique geometric transitions using CSS clip-paths to create visually stunning effects.
+## 🎯 Features
 
-👉 **3D Hover Effects**: Interactive 3D transformations that respond to user interactions for a modern feel.
+- ✨ Scroll-triggered animations for dynamic content reveal  
+- 🔷 Clip-path animations for geometric transitions  
+- 🌀 3D interactive hover effects  
+- 🎞️ Embedded video transitions  
+- 📐 Fully responsive and modern layout  
+- 💡 Modular React components and reusable styles :contentReference[oaicite:4]{index=4}
 
-👉 **Video Transitions**: Seamlessly integrated video elements to enhance storytelling and flow.
+---
 
-👉 **Smooth UI/UX**: Polished interfaces with buttery-smooth interactions for an intuitive user journey.
-
-👉 **Completely Responsive**: Flawless adaptation across all devices, ensuring a consistent experience.
-
-and many more, including code architecture and reusability
-
-## <a name="quick-start">🤸 Quick Start</a>
-
-Follow these steps to set up the project locally on your machine.
+## 🧪 Getting Started
 
 **Prerequisites**
 
-Make sure you have the following installed on your machine:
+Make sure you have the following installed:
 
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
+- Node.js  
+- npm (Node Package Manager)
 
-**Cloning the Repository**
+**Clone & Install**
 
 ```bash
 git clone https://github.com/prakrutiparmar/Animated-Web-Experience.git
-cd award-winning-website
-```
-
-**Installation**
-
-Install the project dependencies using npm:
-
-```bash
+cd Animated-Web-Experience
 npm install
-```
-
-**Running the Project**
-
-```bash
-npm run dev
-```
-
-Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
